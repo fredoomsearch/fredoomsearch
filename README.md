@@ -7,10 +7,22 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 
 ### 🛠️ Mi Stack Técnico Principal
 
-- **Backend & APIs:** Python, FastAPI, Django, Node.js
-- **Frontend & UX:** Angular, React, TypeScript, JavaScript
-- **Data & AI:** ML - RAG (Embedding FAISS), TensorFlow, YFinance
-- **Bases de Datos & DevOps:** PostgreSQL, MySQL, Docker, AWS
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Django" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <br />
+  <img src="https://shields.io" alt="Angular" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <br />
+  <img src="https://shields.io" alt="TensorFlow" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="AWS" />
+</p>
 
 ---
 
@@ -32,6 +44,7 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 
 ### 🌐 Conectemos
 
-- 💼 **LinkedIn:** [jeg-v75fullstack](https://linkedin.com)
+- 💼 **LinkedIn:** [Julián Grajales](https://linkedin.com)
 - 🖥️ **Portafolio Web:** [Portafolio Personal](https://portafolio-ypee.onrender.com/)
 - 📍 **Ubicación:** Medellín, Colombia (Abierto a trabajo remoto 🌍)
+
