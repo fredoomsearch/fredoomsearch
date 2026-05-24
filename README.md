@@ -32,9 +32,9 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TUUSERNAME&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fredoomsearch&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TUUSERNAME&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fredoomsearch&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
