@@ -32,10 +32,9 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 ---
 
 ### 📊 Mis Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TUUSERNAME&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TUUSERNAME&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
