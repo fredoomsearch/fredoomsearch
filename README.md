@@ -7,22 +7,11 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 
 ### 🛠️ Mi Stack Técnico Principal
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="Django" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <br />
-  <img src="https://shields.io" alt="Angular" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <br />
-  <img src="https://shields.io" alt="TensorFlow" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="AWS" />
-</p>
+![Python](https://shields.io) ![FastAPI](https://shields.io) ![Django](https://shields.io) ![Node.js](https://shields.io)
+
+![Angular](https://shields.io) ![React](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+
+![TensorFlow](https://shields.io) ![PostgreSQL](https://shields.io) ![Docker](https://shields.io) ![AWS](https://shields.io)
 
 ---
 
@@ -33,20 +22,11 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 
 ---
 
-### 🏆 Trofeos de Actividad (GitHub Trophies)
-
-<p align="center">
-  <img src="https://vercel.app" alt="Mis Trofeos de GitHub" width="100%" />
-</p>
-
----
-
 ### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" height="180" />
-</p>
+![Estadísticas de GitHub](https://vercel.app)
+
+![Lenguajes más usados](https://vercel.app)
 
 ---
 
