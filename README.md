@@ -33,6 +33,14 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 
 ---
 
+### 🏆 Trofeos de Actividad (GitHub Trophies)
+
+<p align="center">
+  <img src="https://vercel.app" alt="Mis Trofeos de GitHub" width="100%" />
+</p>
+
+---
+
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
@@ -45,6 +53,6 @@ Desarrollador Full-Stack enfocado en construir sistemas prácticos donde las API
 ### 🌐 Conectemos
 
 - 💼 **LinkedIn:** [Julián Grajales](https://linkedin.com)
-- 🖥️ **Portafolio Web:** [Portafolio Personal](https://portafolio-ypee.onrender.com/)
+- 🖥️ **Portafolio Web:** [Portafolio Personal](https://onrender.com)
 - 📍 **Ubicación:** Medellín, Colombia (Abierto a trabajo remoto 🌍)
 
